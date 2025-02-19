@@ -71,8 +71,8 @@ int GetLanguageCodeID(ELanguage eLang)
 			return s_LanguageNames[iLang].m_LanguageCodeID;
 	}
 
-	// default to English
-	return 1033;
+	// default to Portugese
+	return 1046;
 }
 
 //-----------------------------------------------------------------------------
